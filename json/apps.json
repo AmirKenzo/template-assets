@@ -91,13 +91,26 @@
     "name": "SingBox",
     "urlScheme": "sing-box://import-remote-profile",
     "image": "https://play-lh.googleusercontent.com/9hC1t0lYNRlFHt2N2NJCWYMe_M6vJh580XHdC0JeEW14AJJFZGDbgj_meooXAXHbWJ1_",
-    "link": "sing-box://import-remote-profile?url={url}#MattSub",
+    "link": "sing-box://import-remote-profile?url={url}#Subs",
     "os": ["iOS", "Android", "Linux"],
     "downloadLinks": {
       "iOS": "https://apps.apple.com/us/app/sing-box-vt/id6673731168",
       "Android": "https://github.com/SagerNet/sing-box/releases/download/v1.11.10/SFA-1.11.10-universal.apk",
       "Linux": "https://github.com/SagerNet/sing-box/releases/download/v1.11.10/sing-box_1.11.10_linux_amd64.deb"
     },
-    "ShowInMenu": false
+    "ShowInMenu": true
+  },
+  {
+    "name": "Karing",
+    "urlScheme": "karing://install-config",
+    "image": "https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzM1MTc5NzM4XzIyMDM3NF8yMDI0MDcxNzA3NTQzNzczNg/icon.webp?w=140&fakeurl=1&type=.webp",
+    "link": "karing://install-config?url={url}&name=Subs",
+    "os": ["iOS", "Android", "Windows"],
+    "downloadLinks": {
+      "iOS": "https://apps.apple.com/us/app/karing/id6472431552",
+      "Android": "https://github.com/KaringX/karing/releases/download/v1.1.3.704/karing_1.1.3.704_android_armeabi-v7a.apk",
+      "Windows": "https://github.com/KaringX/karing/releases/download/v1.1.3.704/karing_1.1.3.704_windows_x64.exe"
+    },
+    "ShowInMenu": true
   }
 ]
