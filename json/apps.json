@@ -103,7 +103,7 @@
   {
     "name": "Karing",
     "urlScheme": "karing://install-config",
-    "image": "https://karing.app/en/img/logo.png",
+    "image": "https://raw.githubusercontent.com/AmirKenzo/template-assets/refs/heads/main/icons/karing.png",
     "link": "karing://install-config?url={url}&name=Subs",
     "os": ["iOS", "Android", "Windows"],
     "downloadLinks": {
