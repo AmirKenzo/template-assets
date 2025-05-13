@@ -23,15 +23,15 @@
   },
   {
     "name": "v2RayTun",
-    "urlScheme": "v2raytun://install-config",
+    "urlScheme": "v2raytun://import-sub",
     "image": "https://play-lh.googleusercontent.com/LZ4jXc1dvJzi0VabcAIMXBuW3X3MQUO2lDToAQL4sNZHTqWbBokgbeog-5bKjJFKZcc=w240-h480-rw",
-    "link": "v2rayng://install-config?url={url}",
+    "link": "v2raytun://import-sub?url={url}&name=Subs",
     "os": ["Android", "iOS"],
     "downloadLinks": {
       "Android": "https://play.google.com/store/apps/details?id=com.v2raytun.android",
       "iOS": "https://apps.apple.com/en/app/v2raytun/id6476628951"
     },
-    "ShowInMenu": false
+    "ShowInMenu": true
   },
   {
     "name": "V2box",
