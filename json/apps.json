@@ -103,7 +103,7 @@
   {
     "name": "Karing",
     "urlScheme": "karing://install-config",
-    "image": "https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzM1MTc5NzM4XzIyMDM3NF8yMDI0MDcxNzA3NTQzNzczNg/icon.webp?w=140&fakeurl=1&type=.webp",
+    "image": "https://karing.app/en/img/logo.png",
     "link": "karing://install-config?url={url}&name=Subs",
     "os": ["iOS", "Android", "Windows"],
     "downloadLinks": {
