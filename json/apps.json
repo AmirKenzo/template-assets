@@ -22,6 +22,18 @@
     "ShowInMenu": true
   },
   {
+    "name": "v2RayTun",
+    "urlScheme": "v2raytun://install-config",
+    "image": "https://play-lh.googleusercontent.com/LZ4jXc1dvJzi0VabcAIMXBuW3X3MQUO2lDToAQL4sNZHTqWbBokgbeog-5bKjJFKZcc=w240-h480-rw",
+    "link": "v2rayng://install-config?url={url}",
+    "os": ["Android", "iOS"],
+    "downloadLinks": {
+      "Android": "https://play.google.com/store/apps/details?id=com.v2raytun.android",
+      "iOS": "https://apps.apple.com/en/app/v2raytun/id6476628951"
+    },
+    "ShowInMenu": false
+  },
+  {
     "name": "V2box",
     "urlScheme": "v2box://install-sub",
     "image": "https://play-lh.googleusercontent.com/kVeisXWkT4oRMDsZbFrY7XXJvnxHJ7PnQFE71XCcCWAoeOAg5G3HJRDp4Ro3Xbc3WA",
