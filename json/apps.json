@@ -14,7 +14,7 @@
     "name": "V2rayNG",
     "urlScheme": "v2rayng://install-config",
     "image": "https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30",
-    "link": "v2rayng://install-config?url={url}",
+    "link": "v2rayng://install-config?url={url}&name=Subs",
     "os": ["Android"],
     "downloadLinks": {
       "Android": "https://github.com/2dust/v2rayNG/releases/download/1.10.2/v2rayNG_1.10.2_universal.apk"
@@ -30,6 +30,19 @@
     "downloadLinks": {
       "Android": "https://play.google.com/store/apps/details?id=com.v2raytun.android",
       "iOS": "https://apps.apple.com/en/app/v2raytun/id6476628951"
+    },
+    "ShowInMenu": true
+  },
+  {
+    "name": "Hiddify",
+    "urlScheme": "hiddify://install-config",
+    "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
+    "link": "hiddify://install-config/?url=URL",
+    "os": ["Android", "iOS", "Windows"],
+    "downloadLinks": {
+      "Android": "https://play.google.com/store/apps/details?id=app.hiddify.com",
+      "iOS": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone",
+      "Windows": "https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Setup-x64.Msix"
     },
     "ShowInMenu": true
   },
