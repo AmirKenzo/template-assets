@@ -14,7 +14,7 @@
     "name": "V2rayNG",
     "urlScheme": "v2rayng://install-config",
     "image": "https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30",
-    "link": "v2rayng://install-config?url={url}&name=Subs",
+    "link": "v2rayng://install-config?url={url}",
     "os": ["Android"],
     "downloadLinks": {
       "Android": "https://github.com/2dust/v2rayNG/releases/download/1.10.2/v2rayNG_1.10.2_universal.apk"
